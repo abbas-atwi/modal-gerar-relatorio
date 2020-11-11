@@ -1,0 +1,13 @@
+.conteudo{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    width: 700px;
+    height: 350px;
+    background: tomato;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
